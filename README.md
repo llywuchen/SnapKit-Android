@@ -18,9 +18,12 @@ For the Siwft-Android organization's Pourpose,  write app with swift once ,then 
 
 ### Use SnapKit-android
 
+
 [Example](https://github.com/Swift-Android/SnapKit-Android/tree/master/app)
 
-![Screenshot_20191112_112746_com.lly.snp.example](/Users/hjs/Desktop/Screenshot_20191112_112746_com.lly.snp.example.jpg)
+
+#### Screenshots
+![SnapKit-Android](https://raw.githubusercontent.com/Swift-Android/SnapKit-Android/master/Screenshots/s1.jpg "SnapKit-Android")
 
 
 
@@ -60,6 +63,15 @@ The latest release is available on [Maven Central](https://search.maven.org/swif
 implementation("com.lly.snp:snapkit-android:0.0.1")
 ```
 
+
+
+### Acknowledgement
+
+Some ideas of the library are drawn from the following projects:
+
+https://github.com/cashapp/contour.git
+
+Special thanks to the above author. If you like the original work, you can use the original project. At the same time, you are welcome to download and experience this project. If you encounter any problems in the process of using it, you are welcome to give feedback.
 
 
 
