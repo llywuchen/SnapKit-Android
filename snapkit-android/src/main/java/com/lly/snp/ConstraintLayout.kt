@@ -30,13 +30,9 @@ open class ConstraintLayout(
         }
     }
 
-    open fun configSubViews(){
-        R.layout.support_simple_spinner_dropdown_item
-    }
+    open fun configSubViews(){}
 
-    open fun configCs(){
-
-    }
+    open fun configCs(){}
 
     override fun requestLayout() {
         if (constructed) {

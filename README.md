@@ -23,7 +23,10 @@ For the Siwft-Android organization's Pourpose,  write app with swift once ,then 
 
 
 #### Screenshots
-![SnapKit-Android](https://raw.githubusercontent.com/Swift-Android/SnapKit-Android/master/Screenshots/s1.jpg "SnapKit-Android")
+
+<p align="center">
+  <img width="360" src="https://raw.githubusercontent.com/Swift-Android/SnapKit-Android/master/Screenshots/s1.gif">
+</p>
 
 
 
